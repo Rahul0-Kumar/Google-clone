@@ -24,11 +24,12 @@ I'm a Rahul, I am aspiring  Web Developer &amp; love to do coding.I have been wo
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, .Net Framework, SQL ....
+Javascript, HTML, CSS....
 
 
 ## Screenshots
+![Screenshot (24)](https://github.com/Rahul0-Kumar/Google-clone/assets/157640152/cbf1e6e2-367d-48c5-8e4b-d9d429f8911c)
 
-![Screenshot (23)](https://github.com/Rahul0-Kumar/Google-clone/assets/157640152/f86d1d86-3931-4fde-a195-252573222bae)
+
 
 
